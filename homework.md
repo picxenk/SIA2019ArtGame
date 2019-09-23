@@ -6,7 +6,7 @@
 
 ### 01 : Not-Yet-Pong 팅커링하고 회고하기 (9/17)
 **내용**
- * http://bit.ly/not-yet-pong 의 코드를 읽고 실험합니다.
+ * <http://bit.ly/not-yet-pong> 의 코드를 읽고 실험합니다.
  * 모르는 부분이 있다면 다음의 방법을 시도해봅니다.
    * [유투브 Coding Train의 p5.js](https://www.youtube.com/playlist?list=PLRqwX-V7Uu6Zy51Q-x9tMWIv9cueOFTFA) 를 공부합니다.
    * [p5.js 레퍼런스](https://p5js.org/reference/) 에서 모르는 부분을 찾아봅니다.

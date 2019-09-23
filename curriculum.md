@@ -13,3 +13,6 @@
    * 게임이 무엇인지에 대한 몇 가지 이론들을 쉽게 풀어봤으니 가벼운 마음으로 읽어보세요.
    * 우리 수업의 맥락에서는 게임의 정의에 대한 기존 경계를 더 확장해보는 것이지요. ;)
  * [과제 : Not-Yet-Pong 팅커링하고 회고하기](homework.md)
+
+### #03 : Pong의 공을 위한 코드
+ * [결과물 URL](https://docs.google.com/spreadsheets/d/1crOHibQieIt45jgFwpQQCK5rkDYapaugC1iKaadXj2M/edit?usp=sharing)
