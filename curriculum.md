@@ -15,4 +15,5 @@
  * [과제 : Not-Yet-Pong 팅커링하고 회고하기](homework.md)
 
 ### #03 : Pong의 공을 위한 코드
+ * 수업 예제 : [일렉트로닉 버그 킬러](https://editor.p5js.org/picxenk@gmail.com/sketches/eR4mDXHvq)
  * [결과물 URL](https://docs.google.com/spreadsheets/d/1crOHibQieIt45jgFwpQQCK5rkDYapaugC1iKaadXj2M/edit?usp=sharing)
