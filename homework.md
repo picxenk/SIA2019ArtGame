@@ -68,6 +68,7 @@
  * **[과제 폴더](https://drive.google.com/drive/folders/1mpnglmL9HTCzJWQABKuO6EpvBTRtCqk2)** 를 열면 예시 파일이 하나 있습니다. 이 파일을 복사하고 템플릿으로 삼아 과정 회고를 진행합니다.
  * 파일명은 "학번_이름"으로 합니다.
  * ***마감일은 10/12 (토)*** 까지로 하겠습니다. (일요일엔 쉬어요 ^^)
+ * 다른 친구들의 회고를 읽어보는건 괜찮지만, 혹시라도 파일을 지우거나 수정하는 일은 없도록 주의하세요.
  * 진행하다 궁금한 사항은 수업 사이트 [github의 이슈 게시판](https://github.com/picxenk/SIA2019ArtGame/issues)을 이용해주세요.
 
 **평가**
