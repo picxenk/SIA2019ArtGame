@@ -16,10 +16,10 @@
 
 ### #03 : Pong의 공을 위한 코드
  * 수업 예제 : [일렉트로닉 버그 킬러](https://editor.p5js.org/picxenk@gmail.com/sketches/eR4mDXHvq)
- * [결과물 URL](https://docs.google.com/spreadsheets/d/1crOHibQieIt45jgFwpQQCK5rkDYapaugC1iKaadXj2M/edit?usp=sharing)
 
 ### #04 : 보강수업
  * [과제02 : 제로원데이 방문 및 감상기](homework.md)
 
 ### #05 : Pong의 meme 확장
- * <http://bit.ly/not-yet-pong> 
+ * <http://bit.ly/not-yet-pong>
+ * [결과물 URL](https://docs.google.com/spreadsheets/d/1crOHibQieIt45jgFwpQQCK5rkDYapaugC1iKaadXj2M/edit?usp=sharing)
