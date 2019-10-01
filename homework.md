@@ -60,7 +60,7 @@
    * 과정에 대한 회고에는 보통 "무엇을 했는지 / 어떤 결과, 느낌이었는지 / 새로 발견한 점이 있는지" 등을 적어봅니다.
  * **과제를 하는 중에 자신이 아직 p5.js에 대해 공부가 필요하면 다음의 내용을 병행합니다.**
    * Youtube의 Coding Train에서 스스로 어떤 부분을 알면 좋을지 찾고 공부합니다.
-   * 또 하나 추천하는 동영상 강의는 p5.js를 만든 사람이 직접 강의를 하는 [Kadenze : Introduction to Programming for the Visual Arts with p5.js](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js-vi/info) 입니다.
+   * 또 하나 추천하는 동영상 강의는 p5.js를 만든 사람이 직접 강의를 하는 [Kadenze : Introduction to Programming for the Visual Arts with p5.js](https://www.kadenze.com/courses/introduction-to-programming-for-the-visual-arts-with-p5-js-vi/info) 입니다. 세션3까지 공부하는걸 목표로 해도 좋을거 같아요.
    * 공부한 과정에 대해서도 역시 회고에 남기면 됩니다.
 
 **제출방법**
