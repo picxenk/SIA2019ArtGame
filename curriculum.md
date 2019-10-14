@@ -28,3 +28,7 @@
  * Snake Game 읽기
    * [Simple Snake Game](https://editor.p5js.org/picxenk@gmail.com/sketches/diPSYswv_)
    * [Snake - Coding Train](https://editor.p5js.org/picxenk@gmail.com/sketches/ZQwCfX6yd)
+ * JavaScript 참고자료
+   * [MDN 다시 소개하는 자바스크립트](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
+   * [MDN 자바스크립트 레퍼런스](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+   * [Learn ES2015 (ES6)](https://babeljs.io/docs/en/learn)
