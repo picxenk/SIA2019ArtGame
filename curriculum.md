@@ -23,3 +23,8 @@
 ### #05 : Pong의 meme 확장
  * <http://bit.ly/not-yet-pong>
  * [결과물 URL](https://docs.google.com/spreadsheets/d/1crOHibQieIt45jgFwpQQCK5rkDYapaugC1iKaadXj2M/edit?usp=sharing)
+
+### #06 : 하나의 게임, 두 개의 코드
+ * Snake Game 읽기
+   * [Simple Snake Game](https://editor.p5js.org/picxenk@gmail.com/sketches/diPSYswv_)
+   * [Snake - Coding Train](https://editor.p5js.org/picxenk@gmail.com/sketches/ZQwCfX6yd)
