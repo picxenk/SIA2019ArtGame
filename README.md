@@ -33,6 +33,7 @@
 ### 수업의 도구
  * 구글 이메일 계정을 만들어주세요.
  * https://editor.p5js.org : 구글 계정으로 로그인합니다.
+ * [카톡 오픈채팅](https://open.kakao.com/o/gshDfXHb)
 
 
 ### 코치 : 김승범
