@@ -32,3 +32,11 @@
    * [MDN 다시 소개하는 자바스크립트](https://developer.mozilla.org/en-US/docs/Web/JavaScript/A_re-introduction_to_JavaScript)
    * [MDN 자바스크립트 레퍼런스](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
    * [Learn ES2015 (ES6)](https://babeljs.io/docs/en/learn)
+
+### #07 : OOP 연습과 Snake meme의 확장
+ * 기존 not-yet-pong을 OOP로 만들어보기
+   * [p5.js Examples > Objects](https://p5js.org/examples/objects-objects.html) 참고해서 연습
+ * OOP 기반으로 여러 개의 Ball 만들기
+   * [p5.js Examples > Array of Objects](https://p5js.org/examples/objects-array-of-objects.html) 참고해서 연습
+ * [not yet pong OOP](https://editor.p5js.org/picxenk@gmail.com/sketches/qgKH7zP8S)
+   * Ball의 속성 중 위치와 속도를 Vector 오브젝트로 사용했으니 참고하기
