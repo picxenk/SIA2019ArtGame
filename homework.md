@@ -128,7 +128,7 @@
    * 제목 / 관점의 정의는 필수로 설명이 되어야하고, 추가로 아이디어 스케치나 중간 실험물이 나와도 도움이 될거에요.
    * 발표 후 다 함께 피드백을 하고, 각 팀은 좋은 피드백을 긍정적으로 받아드릴 준비를 합니다.
  * 3개의 Snake에 대한 **최종 제출은 11/3(일) 자정** 까지입니다.
-   * **[과제 폴더](https://drive.google.com/drive/folders/1mpnglmL9HTCzJWQABKuO6EpvBTRtCqk2)** 의 팀폴더 안에 3개의 문서를 마감일까지 작성합니다.
+   * **[과제 폴더](https://drive.google.com/drive/folders/1mpnglmL9HTCzJWQABKuO6EpvBTRtCqk2)** 의 팀폴더 안에 3개의 문서를 마감일까지 구글문서로 작성합니다.
 
 **평가**
  * 팀 구성원은 동일한 점수를 받습니다.
