@@ -40,3 +40,4 @@
    * [p5.js Examples > Array of Objects](https://p5js.org/examples/objects-array-of-objects.html) 참고해서 연습
  * [not yet pong OOP](https://editor.p5js.org/picxenk@gmail.com/sketches/qgKH7zP8S)
    * Ball의 속성 중 위치와 속도를 Vector 오브젝트로 사용했으니 참고하기
+ * [중간평가 과제 : Snake meme의 확장 : 3개의 Snake](homework.html#05--snake-meme의-확장--중간평가과제)
