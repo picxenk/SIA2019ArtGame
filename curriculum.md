@@ -46,3 +46,4 @@
 
  ### #09 : 분산 버전 관리 시스템
   * <https://github.com/picxenk/ArtGameSystem> - Art Game System 템플릿 저장소
+  * [Github 계정 정보 추가하기](https://docs.google.com/spreadsheets/d/10NsnTNgwU7xqtS5BobgiiJMvw1gusBipEP5Eb5qQk3U/edit?usp=sharing)
