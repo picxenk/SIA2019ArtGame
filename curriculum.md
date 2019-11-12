@@ -50,3 +50,5 @@
 
 ### #10 : p5.play 실험 / Github branch
  * p5.play <http://molleindustria.github.io/p5.play/>
+   * 이 라이브러리를 만든 팀 홈페이지도 살펴보세요. <https://molleindustria.org/>
+   * 단순히 p5.play를 공부하는게 목표가 아닌, 외부 라이브러리를 찾아서 읽고 사용하는 연습을 합시다!
