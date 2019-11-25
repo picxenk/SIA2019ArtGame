@@ -58,3 +58,12 @@
  * [Atari 2600 Frogger](http://www.free80sarcade.com/2600_Frogger.php)
  * [not-yet-frog](https://editor.p5js.org/picxenk@gmail.com/sketches/15B-Owu55)
  * [간단한 8비트 효과음 만들기 : bfxr](https://www.bfxr.net/)
+
+### #12 : 게임의 다른 감각 / 표현
+ * [Ars Doom 영상](https://www.youtube.com/watch?v=w9r_f8un3NE)
+ * [Super Mario Clouds 영상](https://www.youtube.com/watch?v=fCmAD0TwGcQ)
+ * [The Marriage 게임](http://kyrie.pe/the_marriage/)
+ * [Passage 게임](http://passage.toolness.org/)
+ * [Dys4ia 영상](https://www.youtube.com/watch?v=2waqk5OiBX8)
+ * http://www.experimental-gameplay.org/
+ * https://www.gamescenes.org/
