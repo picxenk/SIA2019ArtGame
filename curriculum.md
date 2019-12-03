@@ -68,3 +68,6 @@
  * http://www.experimental-gameplay.org/
  * https://www.gamescenes.org/
  * [울펜슈타인 3D in p5.js](https://editor.p5js.org/picxenk@gmail.com/sketches/vpzsjH3UK)
+
+### #13 : 아이디어 스케치 & 피드백
+ * [구글문서 타임스탬프 스크립트](https://gist.github.com/picxenk/69beded605fc786638643536343db32e)
