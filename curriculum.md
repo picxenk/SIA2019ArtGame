@@ -72,3 +72,7 @@
 ### #13 : 아이디어 스케치 & 피드백
  * [구글문서 타임스탬프 스크립트](https://gist.github.com/picxenk/69beded605fc786638643536343db32e)
  * [불확실한 Pong 프로토타이핑](https://editor.p5js.org/picxenk@gmail.com/sketches/HD5ETL5zh)
+
+### #14 : 프로토타이핑 데모 & 피드백
+
+### #15 : 베타 데모 & 한 학기 회고
